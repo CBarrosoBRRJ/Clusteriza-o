@@ -21,5 +21,5 @@ O objetivo deste repositório é fornecer scripts que ajudam a explorar diferent
 ## Como Utilizar
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/CBarrosoBRRJ/Clusters.git
+   git clone https://github.com/CBarrosoBRRJ/ML-CLUSTERIZACAO.git
 
